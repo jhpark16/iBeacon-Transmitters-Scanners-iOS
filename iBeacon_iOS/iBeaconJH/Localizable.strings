@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  iBeaconJH
+
+  Created by Jungho Park on 10/12/17.
+  Copyright © 2017 Jungho Park. All rights reserved.
+*/
+"iBeaconUUID"="ba6e459f-d817-4695-998a-e548ef492bb4";
+"iBeaconID"="com.junghopark.ibeacon1";
